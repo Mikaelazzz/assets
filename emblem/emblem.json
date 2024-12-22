@@ -1,0 +1,30 @@
+[
+  {
+    "titleE": "Common",
+    "imageE": "common"
+  },
+  {
+    "titleE": "Tank",
+    "imageE": "tank"
+  },
+  {
+    "titleE": "Assassin",
+    "imageE": "assasin"
+  },
+  {
+    "titleE": "Mage",
+    "imageE": "mage"
+  },
+  {
+    "titleE": "Fighter",
+    "imageE": "fighter"
+  },
+  {
+    "titleE": "Support",
+    "imageE": "support"
+  },
+  {
+    "titleE": "Marksman",
+    "imageE": "marksman"
+  }
+]
