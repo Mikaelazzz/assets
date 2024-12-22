@@ -6,10 +6,8 @@
     "imageHero": "hero127",
     "descHero": "Hero ini akan hadir pada 12/21 (Waktu Server)",
     "update": "Fitur Hero: Seorang Fighter yang dapat melepaskan kekuatannya untuk berubah menjadi Binatang Suci dan mendominasi medan perang.",
-    "type": [
-      "Regen",
-      "Damage"
-    ],
+    "type": 
+      "Regen/Damage",
     "atribute": "",
     "passive": "Lukas mendapat keuntungan Menyelesaikan dari waktu ke waktu atau dengan memberikan kerusakan pada pahlawan musuh. Kapan Menyelesaikan penuh, dia bisa melemparkan Ultimate-nya untuk berubah menjadi bentuk Sacred Beast.",
     "skill1": "Lukas dapat meningkatkan Flash Combo dengan Serangan Dasarnya. Saat melempar Skill, Lukas melepaskan Pulverize dan menghabiskan semua Vigor untuk memberikan serangan tambahan, musuh yang menakjubkan dan merusak dalam jangkauan. Dia memulihkan HP ketika memukul pahlawan musuh.",
@@ -25,10 +23,8 @@
     "imageHero": "hero27",
     "descHero": "Meningkatkan kemampuannya sebagai jungler",
     "update": "Kami telah meningkatkan kerusakan ledakan Sun dan kontrol kerumunan untuk meningkatkan potensi gankingnya sebagai Jungler.Kami juga telah meningkatkan keberlanjutan awal pertandingannya untuk memperkuat kemampuannya bertani di EXP Lane. Namun, kami mengurangi output kerusakan berkelanjutan untuk menjaga keseimbangan.",
-    "type": [
-      "Push",
-      "Damage"
-    ],
+    "type": 
+      "Push/Damage",
     "atribute": "Basis HP: 2580 >> 2500Pertumbuhan HP: 235 >> 210Pertumbuhan Kecepatan Serangan: 3% >> 2%",
     "passive": "Mengurangi Pertahanan Fisik target sebesar 496 per tumpukan, hingga 10 tumpukan >> Mengurangi Pertahanan Fisik target sebesar 5% per tumpukan, hingga 6 tumpukan\nHP Recovered: 50% dari Serangan Fisik Doppelganger >> 75 + 25% dari Serangan Fisik Doppelganger",
     "skill1": "Cooldown: 10s >> 10-8s",
