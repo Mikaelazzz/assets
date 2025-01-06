@@ -1510,5 +1510,17 @@
     "rolee": "jung",
     "type": "Chase/Burst",
     "story": "Sebagai keturunan terakhir dari Pengusir setan Nuo, Suyou membawa kekuatan dewa abadi di dalam tubuhnya, menggunakannya untuk membimbing orang-orang menuju pencerahan. Dia berjalan fana pesawat, seperti pendekar pedang yang mengembara, menawan dan tanpa hambatan, tetapi tidak pernah melupakan itu Nuo berasal dari iman orang-orang. Maka, ia berusaha membersihkan kejahatan dari hati manusia dan menjaga harapan mereka untuk masa depan."
+  },
+  {
+    "name": "Lukas",
+    "description": "Lukas, Binatang Terang",
+    "imageRes": "hero127",
+    "role": "Fighter",
+    "bp": "32000",
+    "dm": "599",
+    "tiket": "0",
+    "rolee": "exp",
+    "type": "Regen/Damage",
+    "story": "Lukas adalah Binatang Suci yang baru-baru ini dihidupkan kembali dari dalam Suaka Kekaisaran. Diberkahi dengan garis keturunan khusus yang memungkinkannya untuk mengambil bentuk manusia, ia pernah berteman dengan Kaisar Gayus dan bertempur di sampingnya untuk menciptakan Kekaisaran Moniyan yang mulia. Setelah tidur selama milenium, ia dibangunkan oleh Silvanna dan bersumpah untuk menandai era baru bagi Kekaisaran di sisinya. Di bawah penampilannya yang berani dan ribut terletak hati yang murni dan sungguh-sungguh. Bagi Lukas, pertempuran bukan hanya tugasnya tetapi juga ekspresi naluriah dari rohnya. Dia sangat yakin dia akan menciptakan sesuatu yang secerdas matahari fajar untuk menerangi setiap sudut Kekaisaran Moniyan dan menulis ulang legenda Binatang Terang."
   }
 ]
